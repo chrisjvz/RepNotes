@@ -1,3 +1,10 @@
+# Steps
+
+2. Initialize local storage
+3. Test saving a bench press reps x weight
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

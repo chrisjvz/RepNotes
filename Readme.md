@@ -4,6 +4,12 @@ I recently switched to an iphone, and loved the FitNotes application on android.
 The IOS version is made by a different developer and is notoriously pricy. Figured
 I would take on the exercise of making a compatible webapp version for personal use.
 
+# Repo Coding Guidelines
+- camelCase for local variables, parameters, and arguments
+- PascalCase for components, globals, etc
+- Append units to any variable with an underscore.
+    - ex. distanceRan_km vs distanceRan_mi
+
 # Tools
 - Tailwind?
 - React
